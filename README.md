@@ -1,4 +1,4 @@
-Repo for LeetCode solutions. Practicing, 每天提高呀！
+Repo for LeetCode solutions. Practicing, 每天提高呀！:hugging_face:
 
 Building solutions locally:
 
